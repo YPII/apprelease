@@ -4,7 +4,7 @@
   <description asmv2:iconFile="YPI.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="UserInterface" version="20.0.6101.26704" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="UserInterface" version="20.0.6101.28163" language="neutral" processorArchitecture="x86" />
     <commandLine file="UserInterface.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -55,7 +55,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>u6LCR/dcVqPjHbTKnoJXLbXB79avOcDQDYUynGeeCR8=</dsig:DigestValue>
+        <dsig:DigestValue>5GnZjw2qbNAnbf1CPm06eJLC6kLAbUryzJbiAIVkCjc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -157,13 +157,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UserInterface.exe" size="9512448">
-      <assemblyIdentity name="UserInterface" version="20.0.6101.26704" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="UserInterface" version="20.0.6101.28163" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Nnw6YA3NelJ/VL7vLTj12j/2WKsrbcMSQgcJhBlifns=</dsig:DigestValue>
+        <dsig:DigestValue>fA+SA3FsEoJVz5kgbm2x+D7Mdo5Xq1jNfPMC/R7K294=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
